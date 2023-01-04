@@ -5,6 +5,9 @@
 .bdr{
     border: 1px solid black;
 }
+.home h1{
+    text-align: center;
+}
 @media screen and (min-width: 728px) {
     .home{
         padding-left: 2rem;

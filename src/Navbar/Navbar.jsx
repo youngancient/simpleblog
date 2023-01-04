@@ -19,13 +19,13 @@ const Navbar = (props) => {
         }
     }
     return ( 
-        <div className="">
+        <div className="header">
             <nav>
-                <h1>Young<strong>Ancient</strong></h1>
+                <h1 className='logo'>Young<strong>Ancient</strong></h1>
                 <div className="links desktop">
                     <a href="#" className="">Home</a>
                     <a href="#" className="">New Post</a>
-                    <a href="#" className="">Posts(Number)</a>
+                    <a href="#" className="">Search</a>
                     <a href="#" className="">More</a>
                 </div>
                 <div className="mobile">

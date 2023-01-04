@@ -9,7 +9,7 @@ const Dropdown = () => {
                     <a href="#" className="">Home</a>
                 </div>
                 <div className="a"><a href="#" className="">New Post</a></div>
-                <div className="a"><a href="#" className="">Posts(No)</a></div>
+                <div className="a"><a href="#" className="">Search</a></div>
                 <div className="a"><a href="#" className="">More</a></div>
             </div>
         </div>
